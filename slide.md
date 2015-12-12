@@ -1,6 +1,6 @@
 class: center, middle
 
-<a href="https://bearfruits.net/index.html">
+<a href="https://bearfruits.net">
 <img src="http://f.st-hatena.com/images/fotolife/P/Pocke/20151210/20151210210332.png" alt="bearfruits" style="width: 100%">
 </a>
 
@@ -111,7 +111,7 @@ bearfruits は、このような問題を解決したい!という思いから�
 
 Demo
 
-<a href="https://bearfruits.net/index.html">Go to bearfruits</a>
+<a href="https://bearfruits.net">Go to bearfruits</a>
 
 ---
 
