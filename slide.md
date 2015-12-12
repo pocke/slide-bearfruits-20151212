@@ -12,6 +12,7 @@ class: center, middle
 
 ---
 
+
 だれ?
 --------
 
@@ -38,6 +39,21 @@ A programmer.
 ---------
 
 - 先日(12月10日)リリースしたWebアプリ bearfruits について話します。
+
+---
+
+class: center, middle
+
+bearfruits ってなに?
+---------
+
+---
+
+class: padding-none
+
+
+
+<img src="index.png" alt="bearfruits" style="width: 100%">
 
 ---
 
@@ -102,7 +118,11 @@ bearfruits ってなに?
 class: center, middle
 
 
-bearfruits は、このような問題を解決したい!という思いから生まれました。
+<p style="font-size: 2.8rem">
+bearfruits は<br>
+このような問題を解決したい!<br>
+という思いから生まれました。
+</p>
 
 ---
 
